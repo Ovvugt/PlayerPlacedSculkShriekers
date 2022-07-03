@@ -1,0 +1,6 @@
+name: PlayerPlacedSculkShriekers
+version: '${project.version}'
+main: me.justbeast_.playerplacedsculkshriekers.PlayerPlacedSculkShriekers
+api-version: 1.19
+authors: [ JustBeast_ ]
+description: Player placed sculk shriekers now can summon wardens
